@@ -1,9 +1,9 @@
-baseURL: https://flyupday.netlify.app/
+baseURL: https://uam2025.netlify.app/
 pluralizeListTitles: no
 summaryLength: 25
 theme: BlogRa
 languageCode: en-us
-title: "Coloquio Anual de Políticas Públicas "
+title: "Coloquio anual de Políticas Públicas 2025"
 disqusShortname: ''
 params:
   adsense: adsense-key
@@ -21,6 +21,7 @@ params:
   pinterest: ''
   twitter: https://x.com/jlmanzanaresr
   youtube: https://www.youtube.com/channel/UCvAT_BKEk6XpeBRd6j3QKEg
+  custom_css: ["css/custom.css"]  # Add this line
 menu:
   main:
     - name: Home

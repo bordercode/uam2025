@@ -1,7 +1,7 @@
 #header {
     padding-top: 26px;
     background-color: $dark;
-    text-align: center;
+    text-align: left; /* Changed from center to left */
 
     .top-bar {
         .navburger {
@@ -10,14 +10,29 @@
 
         .title {
             margin-bottom: 0;
-            font-size: 2.5rem;
+            font-size: 2.5rem; /* Increased font size */
+            line-height: .9; /* Better line height for larger text */
 
             a {
-                color: white;
+                color: coral;
                 text-decoration: none;
-                font-family: 'AlfaSlabOne';
+                font-family: 'Montserrat', serif; /* More elegant font */
+                font-weight: 800; /* Normal weight */
                 margin: 0;
+                letter-spacing: 0.5px;
+                display: block; /* Ensure it takes full width */
             }
+        }
+
+        .subtitle {
+            margin-top: 0.25rem;
+            margin-bottom: 0.5rem;
+            font-size: 1.25rem;
+            color:white ; /* Slightly transparent white */
+            font-family: 'Lato', sans-serif;
+            font-weight: 300; /* Light weight for contrast */
+            letter-spacing: 0.5px;
+            text-transform: uppercase; /* Makes it look more official */
         }
         
         .social-buttons {
@@ -41,7 +56,6 @@
         }
 
         .ra-toggler {
-            // text-align: left;
             padding: 0;
 
             button {
@@ -52,7 +66,6 @@
 
         .search-bar {
             text-align: right;
-            
 
             *:focus {
                 border-color: none;
