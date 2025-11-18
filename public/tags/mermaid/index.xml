@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mermaid on Foro</title>
+    <link>http://localhost:4321/tags/mermaid/</link>
+    <description>Recent content in Mermaid on Foro</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/tags/mermaid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Make Diagrams with Mermaid</title>
+      <link>http://localhost:4321/posts/make-diagrams-with-mermaid/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/posts/make-diagrams-with-mermaid/</guid>
+      <description>&lt;p&gt;Mermaid is an awesome software engineering diagramming tool. Write markdowns like this-&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;graph TD  &#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;A[Client] --&amp;gt; B[Load Balancer]  &#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;B --&amp;gt; C[Server01]  &#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;B --&amp;gt; D[Server02]  &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&#xA;&lt;p&gt;to generate diagrams like this-&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

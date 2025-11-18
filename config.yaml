@@ -1,0 +1,52 @@
+baseURL: https://flyupday.netlify.app/
+pluralizeListTitles: no
+summaryLength: 25
+theme: BlogRa
+languageCode: en-us
+title: Foro 
+disqusShortname: ''
+params:
+  adsense: adsense-key
+  contactEmail: jlmanzanares@colef.mx  
+  description: Foro December_6_2024 
+  facebook: 
+  footer: ''
+  github: 
+  googleAnalytics: ''
+  googleSearch: google-cse-key
+  instagram: https://www.instagram.com/jlmanzanaresr/
+  linkedin: 
+  math: no
+  mermaid: no
+  pinterest: ''
+  twitter: https://x.com/jlmanzanaresr
+  youtube: https://www.youtube.com/channel/UCvAT_BKEk6XpeBRd6j3QKEg
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - identifier: blog
+      name: Research
+      weight: 2
+    - name: Analysis
+      parent: blog
+      url: /posts/
+      weight: 1
+    - name: About
+      url: /about/
+      weight: 3
+    - name: Contact
+      url: /contact/
+      weight: 4
+markup:
+  goldmark:
+    parser:
+      attribute:
+        block: yes
+    renderer:
+      unsafe: yes
+module:
+  hugoVersion:
+    extended: yes
+    min: 0.102.3

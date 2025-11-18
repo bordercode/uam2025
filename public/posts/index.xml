@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Foro</title>
+    <link>http://localhost:4321/posts/</link>
+    <description>Recent content in Posts on Foro</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Externalidades negativas de la actividad económica en la frontera Coahuila-Texas. El caso de egresos hospitalarios a causa de asma</title>
+      <link>http://localhost:4321/posts/abstract/</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/posts/abstract/</guid>
+      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;&#xA;&lt;p&gt;The work analyzes spatial and temporal patterns of hospital discharges due to asthma classified under codes &lt;strong&gt;J450&lt;/strong&gt;, (predominantly allergic asthma) &lt;strong&gt;J451&lt;/strong&gt; (non-allergic asthma), &lt;strong&gt;J458&lt;/strong&gt; (Mixed athma) and &lt;strong&gt;J459&lt;/strong&gt; (unspecified) of the International Classification of diseases (ICD-10).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Motivations</title>
+      <link>http://localhost:4321/posts/motivation/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/posts/motivation/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Strategic economic activities  &lt;strong&gt;Coal mining&lt;/strong&gt; and &lt;strong&gt;electricity&lt;/strong&gt; generation burning coal as input.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./images/micare.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;span style=&#34;font-size: 10px;&#34;&gt;Fuente: &lt;a href=&#34;&#34;&gt;MICARE MINOSA  Dos Repulicas Coal Partnership&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Binational economic integration: Comlementary &lt;strong&gt;Coal imports&lt;/strong&gt; (&lt;em&gt;Dos Republicas Coal partnership&lt;/em&gt; &lt;strong&gt;MINOSA&lt;/strong&gt; at Eagle Pass Maverick County, Texas) and electricity export potential. Coahuila-Texas &lt;strong&gt;grid&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./images/eaglepass.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;span style=&#34;font-size: 10px;&#34;&gt;Fuente: San Antonio News &lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Theoretical framework</title>
+      <link>http://localhost:4321/posts/theoretical-framework/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/posts/theoretical-framework/</guid>
+      <description>&lt;h2 id=&#34;environmental-health&#34;&gt;Environmental health&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;WHO&lt;/strong&gt; perspective on human health including &lt;strong&gt;life quality&lt;/strong&gt; and its &lt;strong&gt;social considerations&lt;/strong&gt;.  (Not only the traditional quimical, fisical and biological &lt;strong&gt;factors&lt;/strong&gt; that are determined on the &lt;strong&gt;environment&lt;/strong&gt;).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Methods and data sources</title>
+      <link>http://localhost:4321/posts/methods-and-data/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/posts/methods-and-data/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Main data source: National Health Information System.&#xA;This is a &lt;strong&gt;public-official data repository&lt;/strong&gt;. It covers patients in all public health institutions.  Available at:  &lt;a href=&#34;http://www.dgis.salud.gob.mx/contenidos/basesdedatos/bdc_egresoshosp_gobmx.html&#34;&gt;SINAIS&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;18 years&lt;/strong&gt; of information startitn at 2004 ending  2022.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Results</title>
+      <link>http://localhost:4321/posts/results/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/posts/results/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Figure 2&lt;/strong&gt; Local Incidence Index.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./images/ill.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;span style=&#34;font-size: 10px;&#34;&gt;Fuente: Elaboración propia con datos para los años 2004 a 2022 (SINAIS, 2022).&lt;/span&gt;&lt;/p&gt;&#xA;&lt;p&gt;Although the proposed indicator is a relative measure of concentration and &lt;strong&gt;controls for the population size&lt;/strong&gt; of the states compared to the national level, the age-specific structure in these geographic areas could introduce biases in the estimation of the Relative Concentration Index (ILI).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Concluding remarks</title>
+      <link>http://localhost:4321/posts/concluding_remarks/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/posts/concluding_remarks/</guid>
+      <description>&lt;h2 id=&#34;main-take-aways&#34;&gt;Main take aways.&lt;/h2&gt;&#xA;&lt;p&gt;We documented:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Asthma&lt;/strong&gt; incidence at a &lt;strong&gt;regional scale&lt;/strong&gt; focusing on the &lt;strong&gt;border region&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;The relationship between a &lt;strong&gt;chronic-high cost disease&lt;/strong&gt;&lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🤧&lt;/span&gt; and enviromental-human &lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🙈&lt;/span&gt;caused exposition factors 🏭&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

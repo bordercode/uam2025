@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Foro</title>
+    <link>http://localhost:4321/tags/python/</link>
+    <description>Recent content in Python on Foro</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapter 2</title>
+      <link>http://localhost:4321/sections/python-tutorial/chapter-2/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/sections/python-tutorial/chapter-2/</guid>
+      <description>&lt;p&gt;This is Chapter 2.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Chapter 1</title>
+      <link>http://localhost:4321/sections/python-tutorial/chapter-1/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/sections/python-tutorial/chapter-1/</guid>
+      <description>&lt;p&gt;This is Chapter 1.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

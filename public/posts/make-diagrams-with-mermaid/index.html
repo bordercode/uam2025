@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=4321&amp;path=livereload" data-no-instant defer></script><title>
+    
+    Make Diagrams With Mermaid | 
+    
+    Foro
+</title>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<link rel="canonical" href="http://localhost:4321/posts/make-diagrams-with-mermaid/" />
+<link rel="icon" type="image/png" href="http://localhost:4321/image/favicon.ico">
+
+
+<meta name="description" content="
+    Mermaid is an awesome software engineering diagramming tool. Write markdowns like this-
+graph TD  
+A[Client] --&gt; B[Load Balancer]  
+B --&gt; C[Server01]  
+B --&gt; D[Server02]  
+to generate diagrams like this-
+    "
+/>
+<meta property="og:description" content="
+    Mermaid is an awesome software engineering diagramming tool. Write markdowns like this-
+graph TD  
+A[Client] --&gt; B[Load Balancer]  
+B --&gt; C[Server01]  
+B --&gt; D[Server02]  
+to generate diagrams like this-
+    " 
+/>
+
+    
+    
+        
+        
+    
+    <meta property="og:image" content="http://localhost:4321/posts/make-diagrams-with-mermaid/diagram.png" />
+
+
+
+
+<meta property="og:title" content="Make Diagrams with Mermaid" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:4321/posts/make-diagrams-with-mermaid/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2020-12-20T00:00:00+00:00" />
+<meta property="article:modified_time" content="2020-12-20T00:00:00+00:00" />
+
+
+
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Make Diagrams with Mermaid">
+  <meta name="twitter:description" content="Mermaid is an awesome software engineering diagramming tool. Write markdowns like this-
+graph TD A[Client] --&gt; B[Load Balancer] B --&gt; C[Server01] B --&gt; D[Server02] to generate diagrams like this-">
+
+
+  <meta itemprop="name" content="Make Diagrams with Mermaid">
+  <meta itemprop="description" content="Mermaid is an awesome software engineering diagramming tool. Write markdowns like this-
+graph TD A[Client] --&gt; B[Load Balancer] B --&gt; C[Server01] B --&gt; D[Server02] to generate diagrams like this-">
+  <meta itemprop="datePublished" content="2020-12-20T00:00:00+00:00">
+  <meta itemprop="dateModified" content="2020-12-20T00:00:00+00:00">
+  <meta itemprop="wordCount" content="47">
+  <meta itemprop="keywords" content="Mermaid">
+
+
+
+
+<link rel="stylesheet" href="/main.min.css">
+
+
+
+
+
+<script src="/bundle.js"></script>
+
+
+
+
+
+
+
+<script data-ad-client="adsense-key" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+
+
+
+
+
+
+
+
+
+<script defer src="/mermaid/mermaid.min.js"></script>
+</head>
+
+<body><header id="header">
+  <div class="top-bar">
+    <div class="container-md">
+
+      <div class="row align-items-center">
+        <div class="col-3 col-sm-4 social-buttons d-none d-sm-block">
+          <ul>
+    
+    <li>
+        <a href="https://www.facebook.com/DevHacker-2351204168278028" target="_blank">
+            <i class="fab fa-facebook"></i></a>
+    </li>
+    
+
+    
+    <li>
+        <a href="https://x.com/rafedyasir" target="_blank">
+            <i class="fab fa-twitter"></i></a>
+    </li>
+    
+
+    
+    <li>
+        <a href="https://www.youtube.com/channel/UC6uDg4IlPbLh2xNKrqnBczw" target="_blank">
+            <i class="fab fa-youtube"></i></a>
+    </li>
+    
+
+    
+    <li>
+        <a href="https://www.instagram.com/rafedyasir/" target="_blank">
+            <i class="fab fa-instagram"></i></a>
+    </li>
+    
+
+    
+    <li>
+        <a href="https://github.com/rafed" target="_blank">
+            <i class="fab fa-github"></i></a>
+    </li>
+    
+
+    
+
+    
+    <li>
+        <a href="https://www.linkedin.com/in/rafed-m-yasir/" target="_blank">
+            <i class="fab fa-linkedin"></i></a>
+    </li>
+    
+
+</ul>
+        </div>
+
+        <div class="ra-toggler col-3 col-sm-4 d-block d-sm-none">
+          <button class="bg-dark" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+            <i class="fas fa-bars"></i>
+          </button>
+        </div>
+
+        <div class="col-6 col-sm-4">
+          <h2 class="title"><a href="/">Foro</a></h2>
+        </div>
+
+        
+        <div class="col-3 col-sm-4">
+          <div class="col col-md-8 offset-md-4 d-none d-sm-block">
+            <form id="cse-search-box-form-id" class="input-group search-bar" onsubmit="return executeQuery('lg');"
+              role="search">
+              <input id="cse-search-input-box-id" type="text" class="form-control" placeholder="Search">
+              <button class="btn" type="submit">
+                <i class="fa fa-search"></i>
+              </button>
+            </form>
+          </div>
+        </div>
+        
+
+      </div>
+    </div>
+  </div>
+
+  <div class="container-md">
+    <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav mx-auto">
+
+          <li class="nav-item d-block d-sm-none">
+            <ul class="social-buttons">
+              <ul>
+    
+    <li>
+        <a href="https://www.facebook.com/DevHacker-2351204168278028" target="_blank">
+            <i class="fab fa-facebook"></i></a>
+    </li>
+    
+
+    
+    <li>
+        <a href="https://x.com/rafedyasir" target="_blank">
+            <i class="fab fa-twitter"></i></a>
+    </li>
+    
+
+    
+    <li>
+        <a href="https://www.youtube.com/channel/UC6uDg4IlPbLh2xNKrqnBczw" target="_blank">
+            <i class="fab fa-youtube"></i></a>
+    </li>
+    
+
+    
+    <li>
+        <a href="https://www.instagram.com/rafedyasir/" target="_blank">
+            <i class="fab fa-instagram"></i></a>
+    </li>
+    
+
+    
+    <li>
+        <a href="https://github.com/rafed" target="_blank">
+            <i class="fab fa-github"></i></a>
+    </li>
+    
+
+    
+
+    
+    <li>
+        <a href="https://www.linkedin.com/in/rafed-m-yasir/" target="_blank">
+            <i class="fab fa-linkedin"></i></a>
+    </li>
+    
+
+</ul>
+            </ul>
+          </li>
+
+          
+          
+          <li class="nav-item">
+            <a class="nav-link 
+              
+              " 
+              href="/">
+              Home
+            </a>
+          </li>
+          
+          
+          
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown">
+              Research
+            </a>
+            <div class="dropdown-menu">
+              
+              
+                <a class="dropdown-item" href="/posts/">Analysis</a>
+              
+              
+              
+                <a class="dropdown-item" href="/sections/">Sections</a>
+              
+              
+              
+                <div class="dropdown-divider"></div>
+              
+              
+              
+                <a class="dropdown-item" href="/tags/">Tags</a>
+              
+              
+            </div>
+          </li>
+          
+          
+          
+          <li class="nav-item">
+            <a class="nav-link 
+              
+              " 
+              href="/about/">
+              About
+            </a>
+          </li>
+          
+          
+          
+          <li class="nav-item">
+            <a class="nav-link 
+              
+              " 
+              href="/contact/">
+              Contact
+            </a>
+          </li>
+          
+          
+        </ul>
+
+        
+        <form id="cse-search-box-form-id2" class="d-flex search-bar d-block d-sm-none"
+          onsubmit="return executeQuery('xs');" role="search">
+          <input id="cse-search-input-box-id2" type="text" class="form-control" placeholder="Search">
+          <button class="btn" type="submit">
+            <i class="fa fa-search"></i>
+          </button>
+        </form>
+        
+
+      </div>
+    </nav>
+  </div>
+</header>
+
+<main class="blog-content">
+    <div class="container-md">
+        <div class="row">
+            
+            <div class="col-lg-2 d-none d-xl-block">
+                <div class="ad-left-offset"></div>
+                
+            </div>
+
+            <div class="col-md-12 col-lg-8 px-lg-4">
+                
+
+                <h1 class="title">Make Diagrams with Mermaid</h1>
+
+                <div class="container-fluid px-0 mb-4">
+                    <div class="row align-items-end">
+                        <div class="col-md-4 date-time">
+                            <span class="date">
+    Dec 20, 2020
+</span>
+                            &centerdot;
+                            <span class="time-to-read">
+    1 min read</span>
+                        </div>
+
+                        <div class="col-md-8 tags ">
+                            
+                            <a href="/tags/mermaid"><span
+                                    class="tag bg-dark">mermaid</span></a>
+                            
+                        </div>
+                    </div>
+                </div>
+
+                
+                    
+                        <figure>
+                            
+                            <img id="cover-image" src=/posts/make-diagrams-with-mermaid/diagram.png alt="Make Diagrams with Mermaid">
+                        </figure>
+                    
+                
+
+                <p>Mermaid is an awesome software engineering diagramming tool. Write markdowns like this-</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-markdown" data-lang="markdown"><span style="display:flex;"><span>graph TD  
+</span></span><span style="display:flex;"><span>A[Client] --&gt; B[Load Balancer]  
+</span></span><span style="display:flex;"><span>B --&gt; C[Server01]  
+</span></span><span style="display:flex;"><span>B --&gt; D[Server02]  </span></span></code></pre></div>
+<p>to generate diagrams like this-</p>
+<div class="mermaid">
+    graph TD
+    A[Client] --> B[Load Balancer]
+    B --> C[Server01]
+    B --> D[Server02]
+</div>
+<p>Find more about mermaid at <a href="https://mermaid-js.github.io/mermaid/#/">mermaid-js.github.io/mermaid/</a></p>
+
+
+                <div id="social-media-share">
+	<p><i>Sharing is caring!</i></p>
+	
+	<div class="share-buttons">
+	    <a  href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2flocalhost%3a4321%2fposts%2fmake-diagrams-with-mermaid%2f"
+	        onclick="socialMediaPopUp(this.href, '', 500, 500); return false;"
+	        title="Share on Facebook. Opens in a new window.">
+	        <img src=/icons/48px/facebook.png>
+	    </a>
+
+	    <a  href="https://twitter.com/intent/tweet?text=Make%20Diagrams%20with%20Mermaid&url=http%3a%2f%2flocalhost%3a4321%2fposts%2fmake-diagrams-with-mermaid%2f"
+	        onclick="socialMediaPopUp(this.href, '', 500, 500); return false;"
+	        title="Share on Twitter. Opens in a new window." >
+	        <img src=/icons/48px/x.png>
+	    </a>
+
+		<a  href="http://www.reddit.com/submit?url=http%3a%2f%2flocalhost%3a4321%2fposts%2fmake-diagrams-with-mermaid%2f"
+	        onclick="socialMediaPopUp(this.href, '', 900, 500); return false;"
+	        title="Share on Reddit. Opens in a new window." >
+	        <img src=/icons/48px/reddit.png>
+	    </a>
+
+	    <a  href="http://pinterest.com/pin/create/button/http://localhost:4321/posts/make-diagrams-with-mermaid/"
+	        onclick="socialMediaPopUp(this.href, '', 900, 500); return false;"
+	        title="Share on Pinterest. Opens in a new window." >
+	        <img src=/icons/48px/pinterest.png>
+	    </a>
+
+	    <a  href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=http%3a%2f%2flocalhost%3a4321%2fposts%2fmake-diagrams-with-mermaid%2f"
+	        onclick="socialMediaPopUp(this.href, '', 900, 500); return false;"
+	        title="Share on Tumblr. Opens in a new window." >
+	        <img src=/icons/48px/tumblr.png>
+	    </a>
+
+		<a  href="https://www.linkedin.com/shareArticle?mini=true&url=http%3a%2f%2flocalhost%3a4321%2fposts%2fmake-diagrams-with-mermaid%2f
+			&title=Make%20Diagrams%20with%20Mermaid&summary=%3cp%3eMermaid%20is%20an%20awesome%20software%20engineering%20diagramming%20tool.%20Write%20markdowns%20like%20this-%3c%2fp%3e%0a%3cdiv%20class%3d%22highlight%22%3e%3cpre%20tabindex%3d%220%22%20style%3d%22color%3a%23f8f8f2%3bbackground-color%3a%23272822%3b-moz-tab-size%3a4%3b-o-tab-size%3a4%3btab-size%3a4%3b%22%3e%3ccode%20class%3d%22language-markdown%22%20data-lang%3d%22markdown%22%3e%3cspan%20style%3d%22display%3aflex%3b%22%3e%3cspan%3egraph%20TD%20%20%0a%3c%2fspan%3e%3c%2fspan%3e%3cspan%20style%3d%22display%3aflex%3b%22%3e%3cspan%3eA%5bClient%5d%20--%26gt%3b%20B%5bLoad%20Balancer%5d%20%20%0a%3c%2fspan%3e%3c%2fspan%3e%3cspan%20style%3d%22display%3aflex%3b%22%3e%3cspan%3eB%20--%26gt%3b%20C%5bServer01%5d%20%20%0a%3c%2fspan%3e%3c%2fspan%3e%3cspan%20style%3d%22display%3aflex%3b%22%3e%3cspan%3eB%20--%26gt%3b%20D%5bServer02%5d%20%20%3c%2fspan%3e%3c%2fspan%3e%3c%2fcode%3e%3c%2fpre%3e%3c%2fdiv%3e%0a%3cp%3eto%20generate%20diagrams%20like%20this-%3c%2fp%3e&source=http%3a%2f%2flocalhost%3a4321%2f"
+	        onclick="socialMediaPopUp(this.href, '', 900, 500); return false;"
+	        title="Share on LinkedIn. Opens in a new window." >
+	        <img src=/icons/48px/linkedin.png>
+	    </a>
+
+	    <a  href="mailto:?subject=Make%20Diagrams%20with%20Mermaid&amp;body=Check out this site http%3a%2f%2flocalhost%3a4321%2fposts%2fmake-diagrams-with-mermaid%2f"
+	        title="Share via Email. Opens in a new window." >
+	        <img src=/icons/48px/email.png>
+	    </a>
+	</div>
+</div>
+
+
+
+
+                
+                <br>
+                <div id="disqus_thread"></div>
+<script type="text/javascript">
+    (function () {
+        
+        
+        if (window.location.hostname == "localhost")
+            return;
+
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        var disqus_shortname = '';
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+            </div>
+
+            <div class="col-lg-2 d-none d-xl-block">
+                <div class="ad-right-offset"></div>
+                
+            </div>
+        </div>
+    </div>
+</main>
+
+<footer class="text-center py-5">
+    <p>
+        
+        © 2024 <a href="https://posgrado.colef.mx/profesores/jose-luis-manzanares-rivera/" target="_blank">José Luis Manzanares Rivera</a>.
+        <a href="https://insight4health.netlify.app/" target="_blank">insight4health</a> Dissclaimer: Research conducted at El Colegio de la Frontera Norte. Analysis and opinions expressed are the author's responsibility and does not necessarily reflect an institutional position on the matter. Copyright © 2024.All graphic materials used in this academic presentation are intended for educational purposes only and are used under a total non-for-profit research setting
+        <a href="https://github.com/gohugoio/hugo/" target="_blank">
+            Hugo
+        </a>. 
+        
+    </p>
+</footer>
+
+
+<script async src="https://cse.google.com/cse.js?cx=google-cse-key"></script>
+<gcse:searchresults-only></gcse:searchresults-only>
+</body>
+
+</html>

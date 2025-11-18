@@ -1,0 +1,18 @@
+<footer class="text-center py-5">
+    <p>
+        {{ with .Site.Params.footer }}
+            {{ . }}
+        {{ else }}
+        © {{ now.Year }} <a href="https://posgrado.colef.mx/profesores/jose-luis-manzanares-rivera/" target="_blank">José Luis Manzanares Rivera</a>.
+        <a href="https://insight4health.netlify.app/" target="_blank">insight4health</a> Dissclaimer: Research conducted at El Colegio de la Frontera Norte. Analysis and opinions expressed are the author's responsibility and does not necessarily reflect an institutional position on the matter. Copyright © 2024.All graphic materials used in this academic presentation are intended for educational purposes only and are used under a total non-for-profit research setting
+        <a href="https://github.com/gohugoio/hugo/" target="_blank">
+            Hugo
+        </a>. 
+        {{ end }}
+    </p>
+</footer>
+
+{{ with .Site.Params.GoogleSearch }}
+<script async src="https://cse.google.com/cse.js?cx={{ . }}"></script>
+<gcse:searchresults-only></gcse:searchresults-only>
+{{ end }}

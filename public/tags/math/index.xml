@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Math on Foro</title>
+    <link>http://localhost:4321/tags/math/</link>
+    <description>Recent content in Math on Foro</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/tags/math/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Write Math Equations</title>
+      <link>http://localhost:4321/posts/write-math-equations/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/posts/write-math-equations/</guid>
+      <description>&lt;p&gt;Write math equations with ease. At first enable &lt;strong&gt;math:true&lt;/strong&gt; in front matter.&lt;/p&gt;&#xA;&lt;p&gt;Then write this-&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-md&#34; data-lang=&#34;md&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;$$ \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… $$&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&#xA;&lt;p&gt;to produce this-&lt;/p&gt;&#xA;&lt;p&gt;$$ \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… $$&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
