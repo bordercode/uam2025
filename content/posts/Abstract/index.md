@@ -1,30 +1,25 @@
 ---
-date: "2024-12-06"
+date: "2025-11-18"
 description: Intro
-image: blog.jpg
+image: sasabe_gasoducto.jpg
 tags:
 
-title: Externalidades negativas de la actividad económica en la frontera Coahuila-Texas. El caso de egresos hospitalarios a causa de asma
+title: "La ruta del gas natural en el noroeste de México: ¿En búsqueda de la soberanía energética o profundización de la dependencia externa?"
 ---
 
-# Abstract 
-
-The work analyzes spatial and temporal patterns of hospital discharges due to asthma classified under codes **J450**, (predominantly allergic asthma) **J451** (non-allergic asthma), **J458** (Mixed athma) and **J459** (unspecified) of the International Classification of diseases (ICD-10).
+# <span style="color:  #fb4344;"> Motivación y objetivos.</span>
 
 
-## Geographic scale. 
+### ¿Por qué el gas natural es importante en el contexto del proyecto nacional de desarrollo?
 
-The study is conducted for a region on the **Mexico-United States border** characterized by **coal** mining activity and **electricity generation**. These activities are associated with high atmospheric emissions of sulfur dioxide **(SO2)** and nitrogen oxides **(NOx)**, both known triggers for respiratory illnesses.
+### ¿De qué forma estados como Sonora en particular se insertan en esta configuración energética global?
+ 
+### <span style="color:  #F18F01;"> El objetivo</span> es ayudar a entender <span style="color:  #F18F01;">¿Cómo la agenda de transición energética</span>  se expresa en nuestro territorio? 
 
-## Temporal scope. 
+¿Cuáles son las expresiones locales de estos procesos globales? 
 
-Covering eighteen years of data from **2004** to **2022** (the most up to date available public release of data). 
+Este cuestionamiento de partida **busca comprender** si decisiones de política económica en materia energética oficialmente promovidas como estrategias para el crecimiento económico regional, contribuyen a cumplir el objetivo de la administración federal actual referente a **garantizar la soberanía** y la **justicia energética del país** (Gobierno de México, 2024).
 
-## Methodology and data sources
-
-**Quantitative** analysis based on publicly available **electronic morbidity records** from the  *National System of health information*  [SINAIS](http://www.dgis.salud.gob.mx/contenidos/basesdedatos/bdc_egresoshosp_gobmx.html)
-
-We estimate indicators of relative concentration and age structure adjusted **morbidity rates** for the state and the **five regions** within Coahuila. 
 
 
 {{< css.inline >}}
@@ -32,3 +27,14 @@ We estimate indicators of relative concentration and age structure adjusted **mo
 .canon { background: white; width: 100%; height: auto;}
 </style>
 {{< /css.inline >}}
+
+---
+<!-- End of your existing content -->
+
+<div style="text-align: center; margin: 2rem 0;">
+  <button onclick="window.scrollTo({top: 0, behavior: 'smooth'})" 
+          style="background-color: #2E86AB; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; font-size: 14px;">
+    ↑ Back to Top
+  </button>
+</div>
+
