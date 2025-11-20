@@ -22,7 +22,7 @@ Datos públicos de <span style="color:  #4F8E2A;">**INEGI**</span>   y <span sty
 ![](./images/ienova.jpg)
 
 
-###                                    Variables
+## <center>Variables</center>
 
 + Serie:  <span style="color:  red;">**producción, consumo de  y exportaciones LNG**</span> para Estados Unidos. **periodicidad anual**
 
