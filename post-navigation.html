@@ -1,0 +1,38 @@
+{{ $currentPage := . }}
+{{ $allPosts := where .Site.RegularPages "Type" "posts" | sort .Date }}
+{{ $nextPost := "" }}
+{{ $prevPost := "" }}
+
+{{ range $index, $post := $allPosts }}
+{{ if eq $post.RelPermalink $currentPage.RelPermalink }}
+{{ if gt $index 0 }}
+{{ $prevPost = index $allPosts (sub $index 1) }}
+{{ end }}
+{{ if lt $index (sub (len $allPosts) 1) }}
+{{ $nextPost = index $allPosts (add $index 1) }}
+{{ end }}
+{{ end }}
+{{ end }}
+
+<div style="display: flex; justify-content: space-between; margin: 2rem 0;">
+  {{ if $prevPost }}
+<a href="{{ $prevPost.Permalink }}" 
+style="background-color: #6c757d; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; font-size: 14px; text-decoration: none;">
+  ← Previous: {{ $prevPost.Title }}
+</a>
+  {{ else }}
+<div></div>
+  {{ end }}
+
+{{ if $nextPost }}
+<a href="{{ $nextPost.Permalink }}" 
+style="background-color: #2E86AB; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; font-size: 14px; text-decoration: none;">
+  Next: {{ $nextPost.Title }} →
+</a>
+  {{ else }}
+<a href="/" 
+style="background-color: #28a745; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; font-size: 14px; text-decoration: none;">
+  Back to Home →
+</a>
+  {{ end }}
+</div>

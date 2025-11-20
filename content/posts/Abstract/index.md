@@ -29,12 +29,10 @@ Este cuestionamiento de partida **busca comprender** si decisiones de política 
 {{< /css.inline >}}
 
 ---
-<!-- End of your existing content -->
 
+<!-- Return to Home Page -->
 <div style="text-align: center; margin: 2rem 0;">
-  <button onclick="window.scrollTo({top: 0, behavior: 'smooth'})" 
-          style="background-color: #2E86AB; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; font-size: 14px;">
-    ↑ Back to Top
-  </button>
+  <a href="/" style="background-color: #2E86AB; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; font-size: 14px; text-decoration: none; display: inline-block;">
+    ← Return to Home
+  </a>
 </div>
-
