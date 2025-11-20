@@ -7,7 +7,7 @@ tags:
 title: "La ruta del gas natural en el noroeste de México: ¿En búsqueda de la soberanía energética o profundización de la dependencia externa?"
 ---
 
-# <span style="color:  #fb4344;"> Motivación y objetivos.</span>
+  # <span style="color:  #fb4344;"> Motivación y objetivos.</span>
 
 
 ### ¿Por qué el gas natural es importante en el contexto del proyecto nacional de desarrollo?
