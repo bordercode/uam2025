@@ -20,6 +20,8 @@ title: La narrativa de la transición energética
 ![](./images/s8.jpg)
 
 
+
+
 We documented:  
 
 1. **Asthma** incidence at a **regional scale** focusing on the **border region**. 
@@ -61,3 +63,75 @@ Lessons learned from the **regional patterns** observed suggest that **economic 
 jlmanzanaresrivera@colef.mx
 
 ![](./images/qr-code.png)
+
+
+
+<!-- Return to Home Page -->
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="/" style="background-color: #2E86AB; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; font-size: 14px; text-decoration: none; display: inline-block;">
+    ← Return to Home
+  </a>
+</div>
+
+
+    // Hacer las imágenes expandibles
+    const images = document.querySelectorAll('img');
+    images.forEach(img => {
+        // No aplicar a botones o logos pequeños
+        if (img.width > 100 && img.height > 100 && !img.closest('a')) {
+            img.classList.add('expandable-image');
+            
+            img.addEventListener('click', function() {
+                const modal = document.querySelector('.image-modal');
+                const modalImg = document.getElementById('expanded-image');
+                const caption = document.getElementById('modal-caption');
+                
+                modal.style.display = 'block';
+                modalImg.src = this.src;
+                modalImg.alt = this.alt;
+                
+                // Buscar el texto de fuente
+                let sourceText = this.alt || '';
+                let nextElement = this.nextElementSibling;
+                
+                // Buscar en los siguientes 2 elementos
+                for (let i = 0; i < 2; i++) {
+                    if (nextElement && nextElement.tagName === 'SPAN') {
+                        if (nextElement.textContent.includes('Fuente:') || 
+                            nextElement.textContent.includes('Source:')) {
+                            sourceText = nextElement.textContent;
+                            break;
+                        }
+                    }
+                    if (nextElement) {
+                        nextElement = nextElement.nextElementSibling;
+                    }
+                }
+                
+                caption.textContent = sourceText;
+            });
+        }
+    });
+
+    // Cerrar modal
+    const closeBtn = document.querySelector('.close-modal');
+    const modalElement = document.querySelector('.image-modal');
+    
+    closeBtn.addEventListener('click', function() {
+        modalElement.style.display = 'none';
+    });
+    
+    modalElement.addEventListener('click', function(e) {
+        if (e.target === modalElement) {
+            modalElement.style.display = 'none';
+        }
+    });
+    
+    // Cerrar con tecla ESC
+    document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape') {
+            modalElement.style.display = 'none';
+        }
+    });
+});
+</script>
