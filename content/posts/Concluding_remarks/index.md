@@ -24,7 +24,7 @@ title: La narrativa de la transición energética
 ## México:  Un país dependiente de la energía proveniente de Estados Unidos.
 
 
-<span style="color:  #F18F01;">Indicadores Críticos</span>
+### <span style="color:  #F18F01;">Indicadores Críticos</span>
 
 +	<span style="color:  red;">Declive del 42.6% en producción doméstica 2012-2022</span>
 
@@ -36,13 +36,13 @@ title: La narrativa de la transición energética
 
 +	Solo 46.8% de gasoductos son propiedad del Estado
 
-####  Expansión de Infraestructura 2018-2024
+###  Expansión de Infraestructura 2018-2024
 
 +	3,050 km de nuevos gasoductos
 
 +	48.9% en región noroeste
 
-+	Proyectos emblemáticos en Sonora
++	<span style="color:  red;"> Proyectos emblemáticos en Sonora</span>
 
 
 ***
