@@ -48,13 +48,16 @@ title: La narrativa de la transición energética
 
 ## <span style="color:  #e77162;">Coloquio Anual de políticas públicas públicas</span> 
 
-###  Gracias por su atencion.  Noviembre 24, 2025.
-### Universidad Autónoma Metropolitana 
-### Casa Abierta al tiempo
-
-jlmanzanaresrivera@colef.mx
 
 ![](./images/qr-code.png)
+
+###  Gracias por su atencion.  Noviembre 24, 2025.
+
+#### Universidad Autónoma Metropolitana 
+
+##### Casa Abierta al tiempo
+
+jlmanzanaresrivera@colef.mx
 
 
 <style>
