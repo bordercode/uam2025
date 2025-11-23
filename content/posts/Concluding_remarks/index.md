@@ -36,7 +36,7 @@ title: La narrativa de la transición energética
 
 +	Solo 46.8% de gasoductos son propiedad del Estado
 
-###  Expansión de Infraestructura 2018-2024
+###  <span style="color:  #F18F01;">Expansión de Infraestructura 2018-2024</span> 
 
 +	3,050 km de nuevos gasoductos
 
