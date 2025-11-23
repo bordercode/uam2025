@@ -73,7 +73,9 @@ Tradicionalmente, el flujo de gas natural de Estados Unidos se ha concentrado en
 Tiene una extensión de 624 km, un diámetro de 36 pulgadas y una capacidad de transporte de 472 millones de pies cúbicos diarios (mpcd) (Grupo Carso, 2024). El proyecto fue desarrollado por el sector privado a cargo de las empresas Carso Energy y fcc industrial (empresa de capital español). El proyecto conecta estratégicamente el gas proveniente de Estados Unidos con la red de distribución del Pacífico en el estado de Sonora. 
 
 
-#### Sierra madre de 800 kilómetros: (Quantum-Mexico Pacific). Construcción a cargo de joint-venture entre GDI Sicim Pipelines y Bonatti.
+#### Sierra madre.
+
+Longitud de 800 kilómetros: (Quantum-Mexico Pacific). Construcción a cargo de joint-venture entre GDI Sicim Pipelines y Bonatti.
 
 ![](./images/s5.jpg )
 
