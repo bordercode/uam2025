@@ -45,13 +45,111 @@ title: La narrativa de la transición energética
 +	<span style="color:  red;"> Proyectos emblemáticos en Sonora</span>
 
 
-***
+
 ###  Coloquio anual de políticas públicas 
 
 #  Gracias por su atencion.  Noviembre 24, 2025.
 jlmanzanaresrivera@colef.mx
 
 ![](./images/qr-code.png)
+
+
+<style>
+/* Black background for this specific post */
+main, .content, article, .post {
+    background-color: #000000 !important;
+    color: #ffffff !important;
+    padding: 2rem !important;
+    min-height: 100vh !important;
+}
+
+/* Add all the other styles from above */
+</style>
+  
+
+
+---
+
+<!-- Return to Home Page -->
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="/" style="background-color: #2E86AB; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; font-size: 14px; text-decoration: none; display: inline-block;">
+    ← Return to Home
+  </a>
+</div>
+
+<style>
+.expandable-image {
+    cursor: zoom-in;
+    transition: transform 0.3s ease;
+    border: 2px solid transparent;
+}
+.expandable-image:hover {
+    transform: scale(1.02);
+    border-color: #2E86AB;
+}
+.image-modal {
+    display: none;
+    position: fixed;
+    z-index: 10000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.95);
+    animation: fadeIn 0.3s;
+}
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+.modal-content {
+    margin: auto;
+    display: block;
+    width: auto;
+    max-width: 95%;
+    max-height: 90vh;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    animation: zoomIn 0.3s;
+}
+@keyframes zoomIn {
+    from { transform: translate(-50%, -50%) scale(0.8); }
+    to { transform: translate(-50%, -50%) scale(1); }
+}
+.close-modal {
+    position: absolute;
+    top: 20px;
+    right: 35px;
+    color: #fff;
+    font-size: 40px;
+    font-weight: bold;
+    cursor: pointer;
+    z-index: 10001;
+    background: rgba(0,0,0,0.5);
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.close-modal:hover {
+    color: #ccc;
+    background: rgba(0,0,0,0.7);
+}
+.image-caption {
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+    font-size: 14px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background: rgba(0,0,0,0.7);
+}
+</style>
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -126,10 +224,3 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 });
 </script>
-
-<!-- Return to Home Page -->
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="/" style="background-color: #2E86AB; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; font-size: 14px; text-decoration: none; display: inline-block;">
-    ← Return to Home
-  </a>
-</div>
