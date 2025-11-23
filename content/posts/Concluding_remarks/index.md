@@ -48,6 +48,12 @@ title: La narrativa de la transición energética
 ![](./images/hmm-final-vdeep.jpg)  
 *Fuente: Elaboración propia con datos de (Energy Information Agency, 2025)*
 
+#### Dos estados subyacents identificados:
+
++ **1973-10-1 a noviembre 1 de 2010**  Fuerte rectoría del Estado previo a la reforma energética emprendida en la administración federal 2012-2018 en la cual se crearon importantes incentivos para la participación privada en el sector.
+
+
++ El segundo estado subyacente identificado comprende de **noviembre de 2010 a diciembre de 2024**; este periodo registra un cambio estructural en la trayectoria de las importaciones hechas por México consistente con un **esquema de dependencia energética** que incrementa la vulnerabilidad de la económica local, principalmente a través del sector industrial, en particular por el **impacto sobre la capacidad de generación eléctrica**. 
 
 ### <span style="color:  #F18F01;">Indicadores Críticos</span>
 
