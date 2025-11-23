@@ -20,6 +20,7 @@ title: La narrativa de la transición energética
 
 ![](./images/s8.jpg)
 
+*Fuente: Allen, 2014; Lu et al., 2023)**
 ### México:  Un país dependiente de la energía proveniente de Estados Unidos.
 
 
