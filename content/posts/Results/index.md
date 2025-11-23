@@ -8,13 +8,24 @@ title: Resultados
 
 ## Estados Unidos. Líder productor mundial de LNG.
 
+
+**Figura 1.** Producción gas natural. Principales países 1980-2024.
+
 ![](./images/s4.jpg)
-<span style="font-size: 10px;">Fuente: Elaboración propia con datos para los años 2004 a 2022 (SINAIS, 2022).</span> 
+<span style="font-size: 10px;">Fuente: Elaboración propia con datos de (Enerdata, 2025).</span> 
 
 
-Estados Unidos se ha convertido en el **líder productor mundial** y es proveedor de los importantes socios  comerciales en Asia. 
+Estados Unidos se ha convertido en el **líder productor mundial** y es proveedor de importantes socios  comerciales en Asia. 
 
-### Japón, Corea del sur, Taiwán capturan un tercio de las importaciones mundiales.) Potentes demandantes por su magnitud son China e India. 
+### Japón, Corea del sur, Taiwán capturan **un tercio** de las importaciones mundiales. Potentes demandantes por su magnitud son China e India. 
+
+**Figura 2**.  Gas natural en Estados Unidos. Balance entre producción, consumo interno y exportaciones 1950-2023.
+
+
+![](./images/2.jpg)
+<span style="font-size: 10px;">Fuente Elaboración propia con datos de (Energy Information Agency, 2025).</span> 
+
+El **superávit** generado ha creado el incentivo económico de la **industria energética** estadounidense por desarrollar infraestructura con el propósito de transportar los excedentes desde los sitios de producción hasta los mercados destino, incluida la demanda de consumidores en Asía, lo que **implica contar con rutas eficientes en el océano Pacífico**.
 
 La **desequilibrio geográfica** entre las zonas de **disponibilidad-extracción-exportación** y aquellas que impulsan los procesos de **demanda-importación-consumo**, ha resultado en el desarrollo de estrategias de abastecimiento que se materializan en <span style="color:  red;">proyectos de infraestructura trans regionales.</span> 
 
