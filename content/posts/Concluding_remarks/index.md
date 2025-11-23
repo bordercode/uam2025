@@ -34,7 +34,7 @@ title: La narrativa de la transición energética
 
 
 
-![](./p.png)
+![](./p.jpg)
 
 ### <span style="color:  #F18F01;">Indicadores Críticos</span>
 
