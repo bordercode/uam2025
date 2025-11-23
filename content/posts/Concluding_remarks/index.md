@@ -1,11 +1,11 @@
 ---
-date: "2024-12-01"
+date: "2025-11-14"
 description: Final statements
 image: final.jpg
 math: true
 enableEmoji: true
 tags:
-title: Concluding remarks
+title: La narrativa de la transición energética
 ---
 
 
@@ -49,9 +49,9 @@ Lessons learned from the **regional patterns** observed suggest that **economic 
 * Incorporate a qualitative perspective to explore the life quality impacts for families and the challenges faced by children in particular border communities. 
 
 ***
-### FORO:  Adaptaciones locales al Cambio Climático.
+###  Coloquio anual de políticas públicas 
 
-#  Thank you.  December 6, 2024.
+#  Gracias por su atencion.  Noviembre 24, 2025.
 jlmanzanaresrivera@colef.mx
 
-![](./images/qr.jpg)
+![](./images/qr-code.png)

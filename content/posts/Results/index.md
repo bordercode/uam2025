@@ -1,5 +1,5 @@
 ---
-date: "2024-12-02"
+date: "2024-11-15"
 image: barco.jpg
 math: true
 tags:
