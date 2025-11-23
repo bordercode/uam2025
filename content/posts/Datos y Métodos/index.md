@@ -2,7 +2,7 @@
 date: "2025-11-16"
 image: costaazul.jpg
 math: true
-title: Metodología y fuentes de datos
+title: Metodología y fuentes de datossss
 ---
 
 ## Análisis exploratorio de **series de tiempo** 
