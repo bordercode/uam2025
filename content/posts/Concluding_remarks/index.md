@@ -45,7 +45,7 @@ title: La narrativa de la transición energética
 
 **Figura 7**. Representación de estados subyacentes. Exportaciones de gas natural a México desde Estados Unidos 1973-2025
 
-![](./images/.jpg)  
+![](./images/hmm-final-vdeep.jpg)  
 *Fuente: Elaboración propia con datos de (Energy Information Agency, 2025)*
 
 
