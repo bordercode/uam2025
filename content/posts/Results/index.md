@@ -70,7 +70,7 @@ Tradicionalmente, el flujo de gas natural de Estados Unidos se ha concentrado en
 
 ####	Samalayuca-Sásabe de 624 km. de longitud. 
 
-Tiene una extensión de 624 km, un diámetro de 36 pulgadas y una capacidad de transporte de 472 millones de pies cúbicos diarios (mpcd) (Grupo Carso, 2024). El proyecto fue desarrollado por el sector privado a cargo de las empresas Carso Energy y fcc industrial (empresa de capital español). El proyecto conecta estratégicamente el gas proveniente de Estados Unidos con la red de distribución del Pacífico en el estado de Sonora. 
+Tiene una extensión de 624 km, un diámetro de 36 pulgadas y una capacidad de transporte de 472 millones de pies cúbicos diarios (mpcd) (Grupo Carso, 2024). El proyecto fue desarrollado por el sector privado a cargo de <span style="color:  red;">las empresas Carso Energy y fcc industrial (empresa de capital español).</span> . El proyecto conecta estratégicamente el gas proveniente de Estados Unidos con la red de distribución del Pacífico en el estado de Sonora. 
 
 
 #### Sierra madre.
@@ -82,6 +82,10 @@ Longitud de 800 kilómetros: (Quantum-Mexico Pacific). Construcción a cargo de 
 Esta infraestructura de transporte de gas natural tiene una longitud proyectada de 800 km desde el municipio de Guadalupe en el estado de Chihuahua, hasta **Puerto Libertad, municipio de Pitiquito en Sonora**. 
 
 Acorde con la documentación de **la empresa Mexico Pacific**, el ducto tiene una capacidad de transporte de 2.8 billones de pies cúbicos diarios, (bcfd) (<span style="color:  coral;"> **este volumen representa cerca del 40% del consumo diario de gas natural en México**</span>, que ronda los 8.4 bcfd) (Secretaría de Energía, 2024).
+
+
+
+
 
 <style>
 /* Black background for this specific post */
