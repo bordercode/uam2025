@@ -6,9 +6,9 @@ tags:
 title: Resultados
 ---
 
-## Estados Unidos. líder productor mundial de LNG.
+## Estados Unidos. Líder productor mundial de LNG.
 
-![](./images/ill.jpg)
+![](./images/s4.jpg)
 <span style="font-size: 10px;">Fuente: Elaboración propia con datos para los años 2004 a 2022 (SINAIS, 2022).</span> 
 
 
@@ -56,3 +56,12 @@ The primary source of ammonia emissions comes from livestock waste and the appli
 [^3]: <span style="font-size: 11px;">Recent studies on dust and health have been conducted by  Herrera-Molina, E., Gill, T. E., Ibarra-Mejia, G., & Jeon, S. (2021). Associations between dust exposure and hospitalizations in El Paso, Texas, USA. Atmosphere, 12(11), 1413 </span>
 
 
+
+---
+
+<!-- Return to Home Page -->
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="/" style="background-color: #2E86AB; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; font-size: 14px; text-decoration: none; display: inline-block;">
+    ← Return to Home
+  </a>
+</div>
