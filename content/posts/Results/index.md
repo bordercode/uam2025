@@ -39,7 +39,7 @@ La **desequilibrio geográfica** entre las zonas de **disponibilidad-extracción
 ## <span style="color:  steelblue;">Terminales de licuefacción</span> 
 
 
-#### Terminal de licuefacción Saguaro Energía.
+#### Terminal Saguaro Energía.
 
 Localizadas en Puerto Libertad, Sonora: Costa del Golfo de California. (Estadounidense.Quantum Captal group via **Mexico Pacific**).
 
@@ -54,16 +54,15 @@ La terminal se ubica en una superficie de 600 hectáreas propiedad de la empresa
 La planta Saguaro Energía forma parte del megaproyecto de transporte de gas natural desde Texas, Estados Unidos, en conjunto con el gasoducto Sierra Madre, ambos a cargo de la empresa de capital **extranjero Mexico Pacific.**
 
 
-#### Terminal de licuefacción Energía Costa Azul 
-
-![](./images/IEnova-Costa-Azul-Energy-and-Commerce.jpg)
+#### Terminal Energía Costa Azul 
+![](./images/668abdd8010ddbbb027143b1b76b17a2.jpeg)
 
 
 localizada a 23 km al norte de Ensenada, Baja California.  **Sempra Infraestructura** (empresa de capital estadounidense).
 
 La terminal se localiza a 23 km al norte de la ciudad de Ensenada en el estado de Baja California. Este proyecto es relevante, ya que se trata de la primera planta de licuefacción en las costas del Pacífico mexicano con un inicio de operación previsto para 2026. En la escala regional, **Estados Unidos no cuenta con plantas de licuefacción en la costa del Pacífico.**  
 
-Tradicionalmente, el flujo de gas natural de Estados Unidos se ha concentrado en los puertos del Golfo de México y la Costa Atlántica, debido a la cercanía con los sitios de extracción, por lo que la construcción de este proyecto hace factible la exportación de los excedentes de ese país por la ruta del Pacífico. 
+Tradicionalmente, el flujo de gas natural de Estados Unidos se ha concentrado en los puertos del Golfo de México y la Costa Atlántica, debido a la cercanía con los sitios de extracción, por lo que **la construcción de este proyecto hace factible la exportación de los excedentes de ese país por la ruta del Pacífico.** 
 
 
 
