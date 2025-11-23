@@ -57,10 +57,50 @@ The primary source of ammonia emissions comes from livestock waste and the appli
 
 
 
+
+
+
 ---
 
 <!-- Return to Home Page -->
-<div style="text-align: center; margin: 2rem 0;">
+<div style="text-align: center; margin: 2rem 0;"><script>
+document.addEventListener('DOMContentLoaded', function() {
+    const modal = document.createElement('div');
+    modal.className = 'image-modal';
+    modal.innerHTML = `
+        <span class="close-modal">&times;</span>
+        <img class="modal-content" id="expanded-image">
+        <div class="image-caption" id="modal-caption"></div>
+    `;
+    document.body.appendChild(modal);
+
+    const style = document.createElement('style');
+    style.textContent = `
+        .expandable-image { cursor: zoom-in; transition: transform 0.3s ease; }
+        .expandable-image:hover { transform: scale(1.02); }
+        .image-modal { display: none; position: fixed; z-index: 1000; left: 0; top: 0; width: 100%; height: 100%; background-color: rgba(0,0,0,0.9); }
+        .modal-content { margin: auto; display: block; width: 90%; max-width: 1200px; max-height: 90vh; }
+        .close-modal { position: absolute; top: 20px; right: 35px; color: #fff; font-size: 40px; font-weight: bold; cursor: pointer; }
+        .image-caption { color: #fff; text-align: center; padding: 10px; font-size: 14px; }
+    `;
+    document.head.appendChild(style);
+
+    document.querySelectorAll('article img').forEach(img => {
+        img.classList.add('expandable-image');
+        img.addEventListener('click', function() {
+            modal.style.display = 'block';
+            document.getElementById('expanded-image').src = this.src;
+            const sourceSpan = this.nextElementSibling;
+            if (sourceSpan && sourceSpan.tagName === 'SPAN') {
+                document.getElementById('modal-caption').textContent = sourceSpan.textContent;
+            }
+        });
+    });
+
+    document.querySelector('.close-modal').addEventListener('click', () => modal.style.display = 'none');
+    modal.addEventListener('click', (e) => { if (e.target === modal) modal.style.display = 'none'; });
+});
+</script>
   <a href="/" style="background-color: #2E86AB; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; font-size: 14px; text-decoration: none; display: inline-block;">
     ← Return to Home
   </a>
