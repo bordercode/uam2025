@@ -94,6 +94,16 @@ La evidencia estudiada sobre el reciente impulso por construir proyectos para ex
 
 En el caso de **México**, a pesar del discurso nacionalista observado en la administración actual sobre soberanía energética, en la práctica, las políticas en materia energética durante diversas administraciones **sugieren una profundización de la dependencia**, alineándose con **intereses estratégicos de EE. UU. mediante el impulso a proyectos de infraestructura transfronteriza en los que **la sustentabilidad ambiental no ocupa un papel activo.**
 
+
+
+### Conclusión
+
+Con base en las series estudiadas, podemos concluir que la trayectoria energética de México refleja dos hechos contrastantes: 
+
+### Mientras el discurso oficial enfatiza la soberanía y la búsqueda de la autosuficiencia, la **dependencia estructural del gas estadounidense** se ha intensificado, especialmente en la última década. 
+
+### Esta dependencia conlleva riesgos económicos por la volatilidad de precios y costos ambientales, tales como fragmentación de hábitats, disturbios en ecosistemas marinos y **contaminación por emisiones de metano.**
+
 ###  Gracias por su atención.  
 
 ![](./images/qr-code.png)
