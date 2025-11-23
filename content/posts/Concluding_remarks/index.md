@@ -50,8 +50,13 @@ title: La narrativa de la transición energética
 
 #### Dos estados subyacents identificados:
 
+
+#### <span style="color:  #4682B4;">Pre-2010: Bajas importaciones, alineadas con políticas energéticas estatale.</span> 
+
 + **1973-10-1 a noviembre 1 de 2010**  Fuerte rectoría del Estado previo a la reforma energética emprendida en la administración federal 2012-2018 en la cual se crearon importantes incentivos para la participación privada en el sector.
 
+
+#### <span style="color:  red;">Post-2010: Aumento abrupto de importaciones, impulsado por la participación privada tras la reforma energética y la capacidad exportadora de EE. UU.</span> 
 
 + El segundo estado subyacente identificado comprende de **noviembre de 2010 a diciembre de 2024**; este periodo registra un cambio estructural en la trayectoria de las importaciones hechas por México consistente con un **esquema de dependencia energética** que incrementa la vulnerabilidad de la económica local, principalmente a través del sector industrial, en particular por el **impacto sobre la capacidad de generación eléctrica**. 
 
