@@ -80,6 +80,16 @@ title: La narrativa de la transición energética
 
 +	<span style="color:  red;"> Proyectos emblemáticos en Sonora</span>
 
+
+
+
+##  Consideraciones finales
+
+Los hallazgos principales muestran que proyectos de infraestructura, como las terminales  Energía Costa Azul y Saguaro Energía, **priorizan rutas de exportación a Asia**, consolidando el papel de **México como corredor de tránsito para el gas estadounidense** en lugar de fortalecer la soberanía doméstica.  
+
+El hecho de que estos proyectos sean realizados por **capital estadounidense** e impulsados por los productores de ese país, muestra que en la práctica la administración federal actual en México, de hecho, facilita la **privatización de rubros estratégicos** para el desarrollo del país, profundizando en el largo plazo, la dependencia que el país ya observa con su vecino del norte en materia energética. 
+
+
 ###  Gracias por su atención.  
 
 ![](./images/qr-code.png)
