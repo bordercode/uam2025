@@ -20,41 +20,27 @@ title: La narrativa de la transición energética
 ![](./images/s8.jpg)
 
 
+## México:  Un país dependiente de la energía proveniente de Estados Unidos.
+Indicadores Críticos
 
++	<span style="color:  red;">Declive del 42.6% en producción doméstica 2012-2022<span style="color:  red;">
 
-We documented:  
++	Incremento del 24.1% en consumo 2012-2022
 
-1. **Asthma** incidence at a **regional scale** focusing on the **border region**. 
++	Dependencia de importaciones de EE.UU. superará 50% para 2030
 
-2. The relationship between a **chronic-high cost disease**<span class="nowrap"><span class="emojify">🤧</span> and enviromental-human <span class="nowrap"><span class="emojify">🙈</span>caused exposition factors 🏭
++ 	48% de generación eléctrica usa gas natural
 
++	Solo 46.8% de gasoductos son propiedad del Estado
 
-## Analysis strengths:  
+####  Expansión de Infraestructura 2018-2024
 
++	3,050 km de nuevos gasoductos
 
- * We use international comparable  indicators allowing **binational monitoring**.  
- 
- * We employ data with a **local perspective** based on **electronic health records.**
++	48.9% en región noroeste
 
-* **Temporal** perspective allowing to define a **trend in time**📈. We actually find **asthma** to be a growing health concern for the region.
++	Proyectos emblemáticos en Sonora
 
-Which indicates a persistent issue demanding the attention of public health authorities.  Evidence indicates a cases concentration peak in **2016** relative to the national scenario (**LII=1.88**).   
-
-* Higher than the national morbidity rates for the border and coal mining regions:   **15 vs. 9.2  per  100 000 pop**. 
-
-* In additon **evidence** found suggest the existence of a **hot spot** 📍 of **asthma** in the **desert region** ️🏜️  as well as the **Laguna region**  The former assosated to desert dust (the highest concentration of **PM<sub>2.5</sub>** ) and the latter associated to the highest emissions of **Ammonia**.  **NH<sub>3</sub>** A quimical element found as a result of the economic activity of the region which includes **agro food and dairy industries 🐄**. (where NH<sub>3</sub> is a precursor of PM<sub>2.5</sub> 
-
-## Final thoughts. 
-
-Electricity generation using coal may be replaced with cleaner technologies. This energy transition is important to improve environmental quality and human health in this binational region at the Coahuila Texas border.   
-
-Lessons learned from the **regional patterns** observed suggest that **economic activity**  and its environmental impacts provide valueble inputs for designing  **public health monitoring strategies.** 
-
-
-## To do list for the research agenda.
-
-
-* Incorporate a qualitative perspective to explore the life quality impacts for families and the challenges faced by children in particular border communities. 
 
 ***
 ###  Coloquio anual de políticas públicas 
