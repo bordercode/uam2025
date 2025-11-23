@@ -1,6 +1,6 @@
 ---
 date: "2024-12-02"
-image: equation.jpg
+image: barco.jpg
 math: true
 tags:
 title: Resultados
