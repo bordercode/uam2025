@@ -56,15 +56,12 @@ title: La narrativa de la transición energética
 
 +	<span style="color:  red;"> Proyectos emblemáticos en Sonora</span>
 
-
-
-## <span style="color:  #e77162;">Coloquio Anual de Políticas Públicas</span> 
-
+###  Gracias por su atencion.  
 
 ![](./images/qr-code.png)
 
-###  Gracias por su atencion.  
 
+## <span style="color:  #e77162;">Coloquio Anual de Políticas Públicas</span>
 #####  Universidad Autónoma Metropolitana  Casa Abierta al tiempo
 Noviembre 24, 2025.
 
