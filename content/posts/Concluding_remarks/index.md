@@ -25,7 +25,7 @@ title: La narrativa de la transición energética
 
 **Figura 3**. Exportaciones mensuales de gas natural por gasoducto desde EE. UU. a Canadá y México (1973-2023)
 
-![](./xports.jpeg)
+![](./natural_gas_vs_wti.jpg)
 
 <span style="font-size: 10px;">Fuente Elaboración propia con datos de (Energy Information Agency, 2025).</span> 
 
