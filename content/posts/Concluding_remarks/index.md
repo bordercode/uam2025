@@ -50,15 +50,17 @@ jlmanzanaresrivera@colef.mx
 
 ![](./images/qr-code.png)
 
-
-
-<!-- Return to Home Page -->
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="/" style="background-color: #2E86AB; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; font-size: 14px; text-decoration: none; display: inline-block;">
-    ← Return to Home
-  </a>
-</div>
-
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Crear el modal
+    const modal = document.createElement('div');
+    modal.className = 'image-modal';
+    modal.innerHTML = `
+        <span class="close-modal">&times;</span>
+        <img class="modal-content" id="expanded-image">
+        <div class="image-caption" id="modal-caption"></div>
+    `;
+    document.body.appendChild(modal);
 
     // Hacer las imágenes expandibles
     const images = document.querySelectorAll('img');
@@ -121,3 +123,10 @@ jlmanzanaresrivera@colef.mx
     });
 });
 </script>
+
+<!-- Return to Home Page -->
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="/" style="background-color: #2E86AB; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; font-size: 14px; text-decoration: none; display: inline-block;">
+    ← Return to Home
+  </a>
+</div>
