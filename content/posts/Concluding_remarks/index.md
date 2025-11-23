@@ -25,12 +25,18 @@ title: La narrativa de la transición energética
 
 **Figura 3**. Exportaciones mensuales de gas natural por gasoducto desde EE. UU. a Canadá y México (1973-2023)
 
-![](./images/natural_gas_vs_wti.jpg)
-
+![](./images/mexico-CAN-imports.jpg) 
 <span style="font-size: 10px;">Fuente Elaboración propia con datos de (Energy Information Agency, 2025).</span> 
 
 
 **Figura 4.** Precio de exportación Gas Natural Licuado (US dólar por miles de pies cúbicos) y precio de petróleo crudo, mezcla West Texas Intermediate (wti) 2001-2024
+
+
+**Figura 6.** Signos de la vulnerabilidad. Precio de exportación de gas natural licuado estadounidense a México 1989-2024
+
+
+![](./images/natural_gas_vs_wti.jpg)  
+
 
 
 
