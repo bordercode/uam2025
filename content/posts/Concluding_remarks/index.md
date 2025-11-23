@@ -12,7 +12,7 @@ title: La narrativa de la transición energética
 ###### El impulso para la comercialización global del gas natural se ha hecho bajo el amparo de la narrativa de la transición energética.
 
 ### Definición:
-> **La transición energética global**, entendida como el proceso en el que las sociedades a escala mundial llevan a cabo estrategias para reducir el uso de combustibles de alto impacto ambiental<mark>  (Naciones Unidas, 2023.).
+> **La transición energética global**, entendida como el proceso en el que las sociedades a escala mundial llevan a cabo estrategias para reducir<mark>  el uso de combustibles de alto impacto ambiental (Naciones Unidas, 2023.).
 
 ### Contraste de emisiones Carbón vs. Gas Natural. 
 
