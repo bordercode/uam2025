@@ -79,7 +79,6 @@ Longitud de 800 kilómetros: (Quantum-Mexico Pacific). Construcción a cargo de 
 
 ![](./images/s5.jpg )
 
-
 Esta infraestructura de transporte de gas natural tiene una longitud proyectada de 800 km desde el municipio de Guadalupe en el estado de Chihuahua, hasta **Puerto Libertad, municipio de Pitiquito en Sonora**. 
 
 Acorde con la documentación de **la empresa Mexico Pacific**, el ducto tiene una capacidad de transporte de 2.8 billones de pies cúbicos diarios, (bcfd) (<span style="color:  coral;"> **este volumen representa cerca del 40% del consumo diario de gas natural en México**</span>, que ronda los 8.4 bcfd) (Secretaría de Energía, 2024).
