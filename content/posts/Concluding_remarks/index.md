@@ -20,7 +20,7 @@ title: La narrativa de la transición energética
 
 ![](./images/s8.jpg)
 
-## México:  Un país dependiente de la energía proveniente de Estados Unidos.
+### México:  Un país dependiente de la energía proveniente de Estados Unidos.
 
 
 **Figura 3**. Exportaciones mensuales de gas natural por gasoducto desde EE. UU. a Canadá y México (1973-2023)
