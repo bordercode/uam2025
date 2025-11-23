@@ -33,18 +33,20 @@ title: La narrativa de la transición energética
 
 ![](./images/natural_gas_vs_wti.jpg) 
 
-Fuente: Elaboración propia con datos de (Energy Information Agency, 2025)
+*Fuente: Elaboración propia con datos de (Energy Information Agency, 2025)*
 
 **Figura 5.** Signos de la vulnerabilidad. Precio de exportación de gas natural licuado estadounidense a México 1989-2024
 
 
 ![](./images/US-MXxx.jpg)  
-
+*Fuente: Elaboración propia con datos de (Energy Information Agency, 2025). Estimación local de tendencia loess por sus siglas en inglés)*
  
 
 
+**Figura 7**. Representación de estados subyacentes. Exportaciones de gas natural a México desde Estados Unidos 1973-2025
 
-
+![](./images/.jpg)  
+*Fuente: Elaboración propia con datos de (Energy Information Agency, 2025)*
 
 
 ### <span style="color:  #F18F01;">Indicadores Críticos</span>
