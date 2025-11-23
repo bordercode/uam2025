@@ -1,7 +1,7 @@
 ---
 date: "2025-11-13"
 description: Final statements
-image: final.jpg
+image: micare.jpg
 math: true
 enableEmoji: true
 tags:
