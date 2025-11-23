@@ -23,6 +23,13 @@ title: La narrativa de la transición energética
 ## <span style="color:  #A29F9F;">México:  Un país dependiente de la energía proveniente de Estados Unidos.</span>
 
 
+**Figura 3**. Exportaciones mensuales de gas natural por gasoducto desde EE. UU. a Canadá y México (1973-2023)
+
+![](./xports.jpeg)
+<span style="font-size: 10px;">Fuente Elaboración propia con datos de (Energy Information Agency, 2025).</span> 
+
+
+
 
 ### <span style="color:  #F18F01;">Indicadores Críticos</span>
 
