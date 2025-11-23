@@ -20,8 +20,8 @@ title: La narrativa de la transición energética
 
 ![](./images/s8.jpg)
 
+## <span style="color:  #A29F9F;">México:  Un país dependiente de la energía proveniente de Estados Unidos.</span>
 
-## México:  Un país dependiente de la energía proveniente de Estados Unidos.
 
 
 ### <span style="color:  #F18F01;">Indicadores Críticos</span>
@@ -46,7 +46,7 @@ title: La narrativa de la transición energética
 
 
 
-## <span style="color:  #e77162;">Coloquio Anual de políticas públicas públicas</span> 
+## <span style="color:  #e77162;">Coloquio Anual de Políticas Públicas</span> 
 
 
 ![](./images/qr-code.png)
