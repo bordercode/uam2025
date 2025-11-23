@@ -56,6 +56,8 @@ La planta Saguaro Energía forma parte del megaproyecto de transporte de gas nat
 
 #### Terminal de licuefacción Energía Costa Azul 
 
+![](./images/IEnova-Costa-Azul-Energy-and-Commerce.jpg)
+
 
 localizada a 23 km al norte de Ensenada, Baja California.  **Sempra Infraestructura** (empresa de capital estadounidense).
 
