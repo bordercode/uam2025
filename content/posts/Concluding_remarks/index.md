@@ -1,5 +1,5 @@
 ---
-date: "2025-11-14"
+date: "2025-11-13"
 description: Final statements
 image: final.jpg
 math: true
