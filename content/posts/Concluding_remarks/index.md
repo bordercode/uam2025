@@ -31,8 +31,9 @@ title: La narrativa de la transición energética
 
 **Figura 4.** Precio de exportación Gas Natural Licuado (US dólar por miles de pies cúbicos) y precio de petróleo crudo, mezcla West Texas Intermediate (wti) 2001-2024
 
+![](./images/natural_gas_vs_wti.jpg) 
 
-**Figura 6.** Signos de la vulnerabilidad. Precio de exportación de gas natural licuado estadounidense a México 1989-2024
+**Figura 5.** Signos de la vulnerabilidad. Precio de exportación de gas natural licuado estadounidense a México 1989-2024
 
 
 ![](./images/US-MX.tiff)  
