@@ -34,8 +34,6 @@ title: La narrativa de la transición energética
 
 
 
-![](./images/p.jpg)
-
 ### <span style="color:  #F18F01;">Indicadores Críticos</span>
 
 +	<span style="color:  red;">Declive del 42.6% en producción doméstica 2012-2022</span>
