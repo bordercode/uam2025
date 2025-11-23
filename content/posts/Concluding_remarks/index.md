@@ -75,7 +75,7 @@ title: La narrativa de la transición energética
 
 +	<span style="color:  red;"> Proyectos emblemáticos en Sonora</span>
 
-###  Gracias por su atencion.  
+###  Gracias por su atención.  
 
 ![](./images/qr-code.png)
 
