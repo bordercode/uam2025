@@ -36,11 +36,12 @@ La **desequilibrio geográfica** entre las zonas de **disponibilidad-extracción
 
 
 
+## <span style="color:  steelblue;">Terminales de licuefacción</span> 
 
-#### <span style="color:  #fdb520;">  Terminales de licuefacción.</span>
 
 	•	**Terminal de licuefacción Saguaro Energía**. Localizadas en Puerto Libertad, Sonora: Costa del Golfo de California. (Estadounidense.Quantum Captal group via **Mexico Pacific**).
 
+## <span style="color:  coral;">Terminales de licuefacción</span> 
 
 ![](./images/s11.jpg )
 
