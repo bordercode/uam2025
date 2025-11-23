@@ -2,7 +2,7 @@
 date: "2024-12-05"
 image: Sonora_gasoducto.jpg
 tags:
-title: "Antecedentes: Oferta y demanda de Gas Natural"
+title: "Oferta y demanda de Gas Natural"
 ---
 
 
@@ -24,6 +24,9 @@ la empresa responsable de escalar comercialmente la técnica de fracturación hi
 Este hecho, ha significado la transformación del escenario geo-energético global 
 impactando la región noroeste de México de manera crucial. 
 La figura de Dick Cheney es un <span style="color:  #f28c23;">clásico ejemplo de riesgo moral y conflicto de intereses</span>. 
+
+
+![](./images/Halliburton.jpg)
 
 Entre otras cosas una vez en el gobierno, la empresa Halliburton obtuvo millonarios
 contratos en la Guerra de Irak (reparación de infraestructura petrolera).
