@@ -51,11 +51,10 @@ title: La narrativa de la transición energética
 
 ![](./images/qr-code.png)
 
-###  Gracias por su atencion.  Noviembre 24, 2025.
+###  Gracias por su atencion.  
 
-#### Universidad Autónoma Metropolitana 
-
-##### Casa Abierta al tiempo
+#####  Universidad Autónoma Metropolitana  Casa Abierta al tiempo
+Noviembre 24, 2025.
 
 jlmanzanaresrivera@colef.mx
 
