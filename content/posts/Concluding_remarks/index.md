@@ -17,7 +17,7 @@ title: La narrativa de la transición energética
 ### Contraste de emisiones Carbón vs. Gas Natural. 
 
 
-![](./images/s4.jpg)
+![](./images/s8.jpg)
 
 
 We documented:  
