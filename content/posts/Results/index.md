@@ -6,7 +6,7 @@ tags:
 title: Resultados
 ---
 
-## Estados Unidos. Líder productor mundial de LNG.
+## Estados Unidos. Líder productor mundial de LNG.aaaaa
 
 ![](./images/s4.jpg)
 <span style="font-size: 10px;">Fuente: Elaboración propia con datos para los años 2004 a 2022 (SINAIS, 2022).</span> 
