@@ -59,11 +59,7 @@ The primary source of ammonia emissions comes from livestock waste and the appli
 
 
 
-
----
-
-<!-- Return to Home Page -->
-<div style="text-align: center; margin: 2rem 0;"><script>
+<script>
 document.addEventListener('DOMContentLoaded', function() {
     const modal = document.createElement('div');
     modal.className = 'image-modal';
@@ -101,7 +97,3 @@ document.addEventListener('DOMContentLoaded', function() {
     modal.addEventListener('click', (e) => { if (e.target === modal) modal.style.display = 'none'; });
 });
 </script>
-  <a href="/" style="background-color: #2E86AB; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; font-size: 14px; text-decoration: none; display: inline-block;">
-    ← Return to Home
-  </a>
-</div>
