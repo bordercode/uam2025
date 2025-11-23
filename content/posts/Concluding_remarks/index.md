@@ -46,7 +46,7 @@ title: La narrativa de la transición energética
 
 
 
-## <span style="color:  #F18F01;">Coloquio Anual de políticas públicas públicas</span> 
+## <span style="color:  #e77162;">Coloquio Anual de políticas públicas públicas</span> 
 
 ###  Gracias por su atencion.  Noviembre 24, 2025.
 ### Universidad Autónoma Metropolitana 
