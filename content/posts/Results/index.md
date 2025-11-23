@@ -3,10 +3,10 @@ date: "2024-12-02"
 image: equation.jpg
 math: true
 tags:
-title: Results
+title: Resultados
 ---
 
-**Figure 2** Local Incidence Index.
+## Estados Unidos. líder productor mundial de LNG.
 
 ![](./images/ill.jpg)
 <span style="font-size: 10px;">Fuente: Elaboración propia con datos para los años 2004 a 2022 (SINAIS, 2022).</span> 
