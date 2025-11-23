@@ -31,6 +31,22 @@ La **desequilibrio geográfica** entre las zonas de **disponibilidad-extracción
 
 
 
+
+##  Proyectos actuales en desarrollo en Sonora y Baja California.  
+
+
+
+
+#### <span style="color:  #4F8E2A;">**INEGI**</span>Terminales de licuefacción.</span>
+
+	•	Terminal de licuefacción Saguaro Energía localizadas en Puerto Libertad, Sonora: Costa del Golfo de California. (Estadounidense.Quantum Captal group via Mexico Pacific).
+image/s11.jpg
+Se integra por una terminal que proyecta la exportación de 15 millones de toneladas por año (mtnpa) (Mexico Pacific Gas Bulletin Board, 2025). La finalidad es abastecer la demanda externa de LNG generada en Asia mediante el envío por ruta marítima a través del Golfo de California. 
+La terminal se ubica en una superficie de 600 hectáreas propiedad de la empresa México Pacific (Mexico Pacific Gas Bulletin Board, 2025), una compañía de capital estadounidense respaldada por la firma Quantum Captal group, consorcio dedicado a la inversión en sectores estratégicos como el energético. 
+La planta Saguaro Energía forma parte del megaproyecto de transporte de gas natural desde Texas, Estados Unidos, en conjunto con el gasoducto Sierra Madre, ambos a cargo de la empresa de capital extranjero Mexico Pacific
+
+
+
 ---
 
 <!-- Return to Home Page -->
