@@ -22,7 +22,7 @@ Estados Unidos se ha convertido en el **líder productor mundial** y es proveedo
 **Figura 2**.  Gas natural en Estados Unidos. Balance entre producción, consumo interno y exportaciones 1950-2023.
 
 
-![](./images/2.jpg)
+![](./images/s2.jpg)
 <span style="font-size: 10px;">Fuente Elaboración propia con datos de (Energy Information Agency, 2025).</span> 
 
 El **superávit** generado ha creado el incentivo económico de la **industria energética** estadounidense por desarrollar infraestructura con el propósito de transportar los excedentes desde los sitios de producción hasta los mercados destino, incluida la demanda de consumidores en Asía, lo que **implica contar con rutas eficientes en el océano Pacífico**.
