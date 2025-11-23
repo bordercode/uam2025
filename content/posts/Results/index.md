@@ -25,7 +25,7 @@ Estados Unidos se ha convertido en el **líder productor mundial** y es proveedo
 ![](./images/s2.jpg )
 <span style="font-size: 10px;">Fuente Elaboración propia con datos de (Energy Information Agency, 2025).</span> 
 
-#### El **superávit** generado ha creado el incentivo económico de la **industria energética** estadounidense por desarrollar infraestructura con el propósito de transportar los excedentes desde los sitios de producción hasta los mercados destino, incluida la demanda de consumidores en Asía, lo que **implica contar con rutas eficientes en el océano Pacífico**.
+##### El **superávit** generado ha creado el incentivo económico de la **industria energética** estadounidense por desarrollar infraestructura con el propósito de transportar los excedentes desde los sitios de producción hasta los mercados destino, incluida la demanda de consumidores en Asía, lo que **implica contar con rutas eficientes en el océano Pacífico**.
 
 La **desequilibrio geográfica** entre las zonas de **disponibilidad-extracción-exportación** y aquellas que impulsan los procesos de **demanda-importación-consumo**, ha resultado en el desarrollo de estrategias de abastecimiento que se materializan en <span style="color:  red;">proyectos de infraestructura trans regionales.</span> 
 
