@@ -70,7 +70,7 @@ Tradicionalmente, el flujo de gas natural de Estados Unidos se ha concentrado en
 
 ####	Samalayuca-Sásabe de 624 km. de longitud. 
 
-Tiene una extensión de 624 km, un diámetro de 36 pulgadas y una capacidad de transporte de 472 millones de pies cúbicos diarios (mpcd) (Grupo Carso, 2024). El proyecto fue desarrollado por el sector privado a cargo de <span style="color:  red;">las empresas Carso Energy y fcc industrial (empresa de capital español).</span> . El proyecto conecta estratégicamente el gas proveniente de Estados Unidos con la red de distribución del Pacífico en el estado de Sonora. 
+Tiene una extensión de 624 km, un diámetro de 36 pulgadas y una capacidad de transporte de 472 millones de pies cúbicos diarios (mpcd) (Grupo Carso, 2024). El proyecto fue desarrollado por el sector privado a cargo de <span style="color:  red;">las empresas Carso Energy y fcc industrial (empresa de capital español).Ç. El proyecto conecta estratégicamente el gas proveniente de Estados Unidos con la red de distribución del Pacífico en el estado de Sonora. 
 
 
 #### Sierra madre.

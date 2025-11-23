@@ -9,6 +9,7 @@ title: La narrativa de la transición energética
 ---
 
 
+
 ###### El impulso para la comercialización global del gas natural se ha hecho bajo el amparo de la narrativa de la transición energética.
 
 ### Definición:
@@ -21,9 +22,11 @@ title: La narrativa de la transición energética
 
 
 ## México:  Un país dependiente de la energía proveniente de Estados Unidos.
-Indicadores Críticos
 
-+	<span style="color:  red;">Declive del 42.6% en producción doméstica 2012-2022<span style="color:  red;">
+
+<span style="color:  #F18F01;">Indicadores Críticos</span>
+
++	<span style="color:  red;">Declive del 42.6% en producción doméstica 2012-2022</span>
 
 +	Incremento del 24.1% en consumo 2012-2022
 
