@@ -1,5 +1,5 @@
 ---
-date: "2024-12-05"
+date: "2024-11-16"
 image: Sonora_gasoducto.jpg
 tags:
 title: "Oferta y demanda de Gas Natural"
