@@ -82,7 +82,18 @@ Esta infraestructura de transporte de gas natural tiene una longitud proyectada 
 
 Acorde con la documentación de **la empresa Mexico Pacific**, el ducto tiene una capacidad de transporte de 2.8 billones de pies cúbicos diarios, (bcfd) (<span style="color:  coral;"> **este volumen representa cerca del 40% del consumo diario de gas natural en México**</span>, que ronda los 8.4 bcfd) (Secretaría de Energía, 2024).
 
+<style>
+/* Black background for this specific post */
+main, .content, article, .post {
+    background-color: #000000 !important;
+    color: #ffffff !important;
+    padding: 2rem !important;
+    min-height: 100vh !important;
+}
 
+/* Add all the other styles from above */
+</style>
+  
 
 
 ---
