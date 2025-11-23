@@ -90,6 +90,10 @@ Los hallazgos principales muestran que proyectos de infraestructura, como las te
 El hecho de que estos proyectos sean realizados por **capital estadounidense** e impulsados por los productores de ese país, muestra que en la práctica la administración federal actual en México, de hecho, facilita la **privatización de rubros estratégicos** para el desarrollo del país, profundizando en el largo plazo, la dependencia que el país ya observa con su vecino del norte en materia energética. 
 
 
+La evidencia estudiada sobre el reciente impulso por construir proyectos para exportación de gas natural en las costas del Pacífico mexicano y en los estados fronterizos como Sonora, Chihuahua y Baja California, **contrasta con la tendencia negativa al desarrollo de estos proyectos en la costa oeste del suelo estadounidense,**
+
+En el caso de **México**, a pesar del discurso nacionalista observado en la administración actual sobre soberanía energética, en la práctica, las políticas en materia energética durante diversas administraciones **sugieren una profundización de la dependencia**, alineándose con **intereses estratégicos de EE. UU. mediante el impulso a proyectos de infraestructura transfronteriza en los que **la sustentabilidad ambiental no ocupa un papel activo.**
+
 ###  Gracias por su atención.  
 
 ![](./images/qr-code.png)
