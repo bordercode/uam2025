@@ -15,7 +15,7 @@ title: "Marco teórico"
 
 + Busca la **autosuficiencia**  y <span style="color:  F18F01;">reducción de vulnerabilidad externa</span>.  
 
-+ Considera la disparidad entre <span style="color:  red;">zonas de disponibilidad energética</span> y zonas con <span style="color:  red;">zonas de escasez</span> ante la inherente necesidad del sistema económico por demandar energía para su funcionamiento. 
++ Considera la disparidad entre <span style="color:  red;">zonas de disponibilidad energética</span> y zonas <span style="color:  red;">de escasez</span> ante la inherente necesidad del sistema económico por demandar energía para su funcionamiento. 
 
  
 
